@@ -8,4 +8,11 @@
         <UseWPF>true</UseWPF>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="DAL\" />
+      <Folder Include="Reports\" />
+      <Folder Include="UI\" />
+      <Folder Include="UnitTests\" />
+    </ItemGroup>
+
 </Project>
